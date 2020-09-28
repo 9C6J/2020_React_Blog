@@ -52,6 +52,17 @@ jsx ? function return으로 html을 반환
 let / import 로 받아와서 {변수명} 으로 가능
 
 
+리액트 신문법
+
+let [a,b] = useState('남자 코트 추천');
+a = 기본값
+b = state변경한값
+
+state에 데이터 저장해놓은 이유 : 웹이 App처럼 동작하게 만들고 싶어서!
+
+중요한 데이터들은 state로!!
+
+잘바뀌지않는 데이터들은 그냥 하드코딩이나 변수써도댐!!
 
 
 
